@@ -9,7 +9,6 @@ function App() {
       <header>
         <div className="header">
           <Header />
-          <h1>{process.env.REACT_APP_NAME}</h1>
         </div>
       </header>
       <main>
